@@ -1,0 +1,22 @@
+{
+    "百度":{
+        "appid":"-",
+        "secretKey":"-"
+    },
+    "彩云":{
+        "token":"-"
+    },
+    "微软":{
+        "key" : "-",
+        "location" : "-"
+    },
+    "讯飞":{
+        "APPId":"-",
+        "APISecret":"-",
+        "APIKey":"-"
+    },
+    "有道":{
+        "APPId":"-",
+        "APPSecret":"-"
+    }
+}    
