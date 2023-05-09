@@ -1,0 +1,1 @@
+pyinstaller -F -i icon16.ico -n my_super_translator.v0.1 .\launch_translator.py
